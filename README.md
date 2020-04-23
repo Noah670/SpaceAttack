@@ -9,5 +9,7 @@ Space Attack is a Space Invaders inspired games where the player must defeat the
 ## Controls
 
 Move Left -- A
+
 Move Right -- D
-Fire Rockets -- SPACE
+
+Fire Rockets -- Space
